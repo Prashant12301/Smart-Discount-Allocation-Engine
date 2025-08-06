@@ -1,4 +1,4 @@
-# 🎯 Discount Allocation System (Node.js)
+##  Discount Allocation System
 
 Distributes a discount kitty across agents based on:
 - Performance
@@ -6,20 +6,20 @@ Distributes a discount kitty across agents based on:
 - Target Achievement
 - Active Clients
 
-## 🛠 Run Instructions
+##  Run Instructions
 
 ```bash
 npm install
 npm start
 ```
 
-## ✅ Run Tests
+## Run Tests
 
 ```bash
 npm test
 ```
 
-## 🧠 Justification Categories
+##  Justification Categories
 
 - ≥85: High performer
 - 60–84: Moderate performer
