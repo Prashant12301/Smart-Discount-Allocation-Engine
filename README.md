@@ -25,6 +25,6 @@ npm test
 - 60–84: Moderate performer
 - <60: Low performer
 
-## 🌐 Extensible
+##  Extensible
 - Easily configurable weights
 - Add CLI or API layer on top
